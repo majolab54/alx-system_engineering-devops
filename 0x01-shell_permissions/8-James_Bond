@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod u=, g=, o=777 hello
+chmod u= g= c=777 hello
