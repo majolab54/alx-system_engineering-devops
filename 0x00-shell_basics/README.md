@@ -1,1 +1,1 @@
-dds execution permission to the owner, the group owner and the other users, to the file hello
+Create a script that copies all the HTML files
