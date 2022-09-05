@@ -1,2 +1,2 @@
 #!/bin/bash
-fing -type d -non -name . | wc -|
+find -type d -non -name . | wc -|
